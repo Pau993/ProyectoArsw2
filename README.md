@@ -22,12 +22,12 @@ npm run dev
 ```
 Antes de cualquier cambio comuniquenlo en el grupo, duda o reclamo de como usar nuxt, preguntarme, la parte de front del juego está completa, pero usen las dos carpetas para probarla.
 
-En la parte dl front esta:
+En la parte del front esta:
 
 * El mapa
 * Los jugadores
 * Puntaje
-* Obsyavulos
+* Obstaculos
 * Pasajeros
 
 Si quieren agregar más obstaculos o pasajeros leer las respectivas clases y métodos, los cuales muestran como hacerlos sin dañar la lógica ya implementada.
