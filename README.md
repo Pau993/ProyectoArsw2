@@ -1,8 +1,14 @@
 # ProyectoArsw2
 
-Hola, muchachos, recordatorio para que NO DAÑEN el proyecto, los dos servicios tienen que estar corriendo y correran por el puerto 3000/page y por 8080/page.
+Hola, muchachos, recordatorio para que NO DAÑEN el proyecto, los dos servicios tienen que estar corriendo.
 
-Para inicializar el front primero tienen que usar el siguientes comandos
+La parte del FRONT correra por el puerto 3000/page.
+
+La parte del BACK correra por el 8080/page.
+
+No tienen que colocar los dos, solo tienen que correr los dos servicios y con cualquiera de los dos pueden probar, recomiento el 3000, más bien, usen el 3000, Chaparrin que modificarás back, puedes usar el 8080.
+
+Para inicializar el front primero tienen que usar el siguiente comando
 
 Esto para los paquetes
 
