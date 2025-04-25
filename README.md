@@ -30,6 +30,8 @@ En la parte del front esta:
 * Obstaculos
 * Pasajeros
 
+El bus se mueve con ASWD
+
 Si quieren agregar más obstaculos o pasajeros leer las respectivas clases y métodos, los cuales muestran como hacerlos sin dañar la lógica ya implementada.
 No modificar las imagenes, esto puede perjudicar el juego.
 
