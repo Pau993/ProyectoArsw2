@@ -15,6 +15,9 @@ Esto para los paquetes
 ```
 npm install
 ```
+```
+npm run generate
+```
 Este para correrlo
 
 ```
